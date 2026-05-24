@@ -1,0 +1,39 @@
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM provider (pick one)
+langchain-huggingface
+# OR
+# langchain-openai
+# OR
+# langchain-huggingface
+
+# Vector DB
+faiss-cpu
+# OR use chromadb instead of faiss
+# chromadb
+
+# Embeddings
+sentence-transformers
+
+# YouTube transcript loading
+youtube-transcript-api
+
+# Tokenization
+tiktoken
+
+# Web app UI
+streamlit
+
+# Environment variables
+python-dotenv
+
+# HTTP utils
+requests
+
+# Optional parsing helpers
+beautifulsoup4
+lxml
